@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Side_tag
+  - Zombi_tag
+  - Right_tag
+  - Left_tag
+  - Bullet_tag
+  - Titel_show
+  - Level_btn
+  - havai_plane
+  - ddd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg
+    uniqueID: 1762605343
+    locked: 0
+  - name: mid
+    uniqueID: 2218178111
+    locked: 0
+  - name: front
+    uniqueID: 966486275
+    locked: 0
+  - name: showpcs
+    uniqueID: 1288874773
+    locked: 0
